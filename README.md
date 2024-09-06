@@ -1,3 +1,7 @@
+![pypi](https://img.shields.io/pypi/v/pythOnmarg.svg)
+[![Downloads](https://static.pepy.tech/badge/pythOnmarg/month)](https://pepy.tech/project/pythOnmarg)
+[![Downloads](https://static.pepy.tech/badge/pythOnmarg)](https://pepy.tech/project/pythOnmarg)
+
 # pythOnmarg
 
 The Python version of the onmaRg package.
